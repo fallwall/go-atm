@@ -1,18 +1,35 @@
-Go by Example
+
+### Go(lang) 101
+
+
+### Go by Example
 
 Hello World
+
 Values
+
 Variables
+
 Constants
+
 For
+
 If/Else
+
 Switch
+
 Arrays
+
 Slices
+
 Maps
+
 Range
+
 Functions
+
 Multiple Return Values
+
 Variadic Functions
 Closures
 Recursion
