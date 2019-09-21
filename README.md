@@ -37,7 +37,9 @@ Closures
 Recursion
 
 Pointers
+
 Structs
+
 Methods
 Interfaces
 Errors
