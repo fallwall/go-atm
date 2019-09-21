@@ -31,6 +31,7 @@ Functions
 Multiple Return Values
 
 Variadic Functions
+
 Closures
 Recursion
 Pointers
