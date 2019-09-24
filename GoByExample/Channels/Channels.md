@@ -8,3 +8,6 @@ By default channels are unbuffered, meaning that they will only accept sends (ch
 
 ### Cahnnel Directions
 When using channels as function parameters, you can specify if a channel is meant to only send or receive values. This specificity increases the type-safety of the program.
+
+### Select
+Go’s select lets you wait on multiple channel operations.
